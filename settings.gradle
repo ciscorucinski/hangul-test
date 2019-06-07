@@ -1,0 +1,4 @@
+//rootProject.name = 'hangul-test'
+include 'Hangul'
+//findProject(':Hangul')?.name = 'hangul-test'
+
