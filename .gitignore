@@ -60,7 +60,7 @@ fabric.properties
 gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
 
 # Cache of project
 .gradletasknamecache
@@ -96,8 +96,3 @@ hs_err_pid*
 .idea/misc.xml
 .idea/modules/
 .idea/vcs.xml
-Hangul/
-gradle/wrapper/gradle-wrapper.properties
-gradlew
-gradlew.bat
-settings.gradle
